@@ -1,0 +1,15 @@
+.container-fluid
+{
+    background-color: #DFFADF;
+}
+
+.container marketing {align-content: center;}
+
+.Avocado {background-color: #F2F2F2;}
+
+#contact{background-color: #dffadf;}
+
+footer{text-align: center;}
+
+button {display:flex;border-radius: 5px; padding: 5px 20px; background : #5BB96F; color:black;text-decoration:inherit;border-bottom-color: transparent;border-bottom-style:hidden;}
+button:hover{background:#dffadf;}
